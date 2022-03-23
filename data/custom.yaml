@@ -1,0 +1,7 @@
+# custom.yaml
+
+train: ../drive/MyDrive/BackgammonData/images
+val: ../drive/MyDrive/BackgammonData/images
+
+nc: 11  # number of classes
+names: ['t1_1pcs', 't1_2pcs', 't1_3pcs', 't1_4pcs', 't1_5pcs', 't2_1pcs', 't2_2pcs', 't2_3pcs', 't2_4pcs','t2_5pcs', 'board']  # class names
